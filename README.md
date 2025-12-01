@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @activist507
 - 👀 I’m interested in Nigeria
-- 🌱 I’m currently learning JavaScript and NodeJs
+- 🌱 I’m currently learning laravel 
 - 💞️ I’m looking to collaborate on website design
 - 📫 How to reach me ...+2348104498676 and zekeridanjuma304@gmail.com
 
